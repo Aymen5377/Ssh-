@@ -293,7 +293,7 @@ class _HomeScreenState extends State<HomeScreen>
             RichText(
               text: const TextSpan(children: [
                 TextSpan(
-                  text: 'Sport',
+                  text: 'beIN',
                   style: TextStyle(
                     color: AppColors.white,
                     fontSize: 22,
@@ -302,7 +302,7 @@ class _HomeScreenState extends State<HomeScreen>
                   ),
                 ),
                 TextSpan(
-                  text: 'Zone',
+                  text: 'Connect',
                   style: TextStyle(
                     color: AppColors.purple,
                     fontSize: 22,
